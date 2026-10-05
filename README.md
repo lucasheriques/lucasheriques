@@ -11,6 +11,6 @@ Check my [resume](https://cv.lucasfaria.dev/).
 I have two publications:
 
 - [lucasfaria.dev](https://lucasfaria.dev/writing): technical articles about what I learn and share bits of knowledge publicly.
-- [Dev na Gringa](https://newsletter.nagringa.dev/): Portuguese newsletter with practical advice for career growth, soft skills and working remotely.
+- [NaGringa](https://newsletter.nagringa.dev/): Portuguese community/newsletter with practical advice for career growth, soft skills and working remotely.
 
 I have been living together with my fiancée, Iara, since 2020, and our three little pets, Ayla, Luan, and Luna. I love coding, [cooking](https://receitas.lucasfaria.dev/), reading, nature, and animals! 🌵🐾📚🍳
