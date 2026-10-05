@@ -2,6 +2,8 @@
 
 **I'm a software engineer with a passion for creating magical interactions in software.** I consider myself a [product-minded engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/): focused on creating business value and understanding what makes a product shine.
 
+Currently working on MCP analytics at PostHog. I make possible for you to understand your new users (agents).
+
 I love <Link href="bytes/social-side-of-software-engineering" target="_self">talking to customers</Link>, understanding their pains and helping them achieve their goals. I'm a strong believer in the power of curiosity and the importance of asking questions.
 
 Check my [resume](https://cv.lucasfaria.dev/).
